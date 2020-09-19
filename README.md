@@ -8,3 +8,4 @@ Using a color analysis program, the dominant colors from a night time beach imag
 [https://github.com/alacritty/alacritty/wiki/Color-schemes](https://github.com/alacritty/alacritty/wiki/Color-schemes)
 
 ## Screenshots
+![Screenshot](https://github.com/sagefarrenholz/Ocean-Breeze/blob/master/screenshot.jpg?raw=true)
